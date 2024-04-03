@@ -1,0 +1,15 @@
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Word.exe.config
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Word.exe
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Word.pdb
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Aspose.Words.dll
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\bin\Debug\Aspose.Words.xml
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Andromeda-Software-Word.csproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Word.Office.resources
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Andromeda-Software-Word.csproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Andromeda-Software-Word.csproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Andromed.F3DC0073.Up2Date
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Word.exe
+C:\Users\cabec\Documents\Projetcs\Office_Word\Office_Word\Word\obj\Debug\Word.pdb

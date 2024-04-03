@@ -1,0 +1,16 @@
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Word.exe.config
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Word.exe
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Word.pdb
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.csproj.AssemblyReference.cache
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.csproj.SuggestedBindingRedirects.cache
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.Office.resources
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.csproj.GenerateResource.cache
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.csproj.CoreCompileInputs.cache
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.exe
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.pdb
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Guna.UI2.dll
+C:\Users\Whoami\Desktop\Office_Word\Word\obj\Debug\Word.csproj.CopyComplete
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Aspose.Words.dll
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Whoami\Desktop\Office_Word\Word\bin\Debug\Aspose.Words.xml
