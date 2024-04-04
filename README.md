@@ -42,6 +42,7 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Windows SD
 ## Demonstração Andromeda Word Macro 2024
 
 Andromeda Microsoft Word Macro https://youtu.be/7vR7c6a76CE
+Andromeda Microsoft Word Windows 10 https://youtu.be/FbJqxuyg1cY
 
 ## Instalação
 
